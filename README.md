@@ -39,11 +39,11 @@ Kullanılan Veriler
 
 Çıktı Örneği:
 Mahalleler için Ağırlıklı Toplam Puanlar:
-İstasyon Mahallesi Puan: 2.3042
-Karakaş Mahallesi Puan: 2.8765
-Cumhuriyet Mahallesi Puan: 1.7584
+İstasyon Mahallesi Puan: 19677.1216
+Karakaş Mahallesi Puan: 19677.1216
+Cumhuriyet Mahallesi Puan: 19677.1216
 
-En uygun toplu taşıma hattı için mahalle: Karakaş Mahallesi (Puan: 2.8765)
+En uygun toplu taşıma hattı için mahalle: İstasyon Mahallesi (Puan: 19677.1216)
 
 
 Lisans:
