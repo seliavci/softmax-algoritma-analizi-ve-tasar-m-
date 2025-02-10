@@ -29,7 +29,7 @@ Softmax Algoritması: Her kriter için ağırlıkları belirler.
 Ağırlıklı Toplam Puan: En uygun güzergahı seçmek için hesaplanır.
 
 
-Kullanılan Veriler (Sentetik)
+Kullanılan Veriler 
 | Mahalle          | Nüfus Yoğunluğu | Ulaşım Altyapısı | Maliyet (M TL) | Çevresel Etki | Sosyal Fayda |
 |-----------------|----------------|------------------|---------------|--------------|-------------|
 | İstasyon       | 13.318 kişi/km² | 7                | 1.2           | 6            | 8           |
